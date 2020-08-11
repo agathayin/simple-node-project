@@ -1,2 +1,44 @@
 
 .DS_Store
+node_modules
+
+# .vs_code/
+# .vscode/
+# .sass-cache
+# tmp/
+# public/styles/css/styles.css
+# public/styles/css/styles.css.map
+# views/**/*.css
+# views/**/partials/*.css
+# .idea/*
+# purchaseMap.json
+# dump.rdb
+# ee.txt
+# *.webp
+# **/*.webp
+# **/*.min.css
+# **/*.min.js
+# **/*.css.map
+# **/*.js.map
+# dist
+# .tscache
+# .tscommand*.txt
+# ./tscommand-*.tmp.txt
+# **/.env
+# **/*.css.map
+# newrelic_agent.log
+# course-create/src/common
+# edit-profile/src/course-common
+
+# public/bundle
+# public/lib/js/modernizr.js
+# public/lib/js/modernizr
+# public/lib/js/teaching-room-connection
+# public/teaching-room-connection
+# public/edit-profile
+# public/courses/create
+# public/*.png
+# public/0.js
+# !public/favicon.png
+
+# report*.json
